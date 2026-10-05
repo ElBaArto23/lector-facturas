@@ -1,0 +1,122 @@
+{
+  "PRUEBA-0001": {
+    "invoiceNumber": "PRUEBA-0001",
+    "invoiceDate": "2026-09-01",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 406980,
+    "taxableBase": 342000,
+    "vatAmount": 64980
+  },
+  "PRUEBA-0002": {
+    "invoiceNumber": "PRUEBA-0002",
+    "invoiceDate": "2026-09-02",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 446250,
+    "taxableBase": 375000,
+    "vatAmount": 71250
+  },
+  "PRUEBA-0003": {
+    "invoiceNumber": "PRUEBA-0003",
+    "invoiceDate": "2026-09-03",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 416500,
+    "taxableBase": 350000,
+    "vatAmount": 66500
+  },
+  "PRUEBA-0004": {
+    "invoiceNumber": "PRUEBA-0004",
+    "invoiceDate": "2026-09-04",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 237405,
+    "taxableBase": 199500,
+    "vatAmount": 37905
+  },
+  "PRUEBA-0005": {
+    "invoiceNumber": "PRUEBA-0005",
+    "invoiceDate": "2026-09-05",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 654500,
+    "taxableBase": 550000,
+    "vatAmount": 104500
+  },
+  "PRUEBA-0006": {
+    "invoiceNumber": "PRUEBA-0006",
+    "invoiceDate": "2026-09-06",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 571200,
+    "taxableBase": 480000,
+    "vatAmount": 91200
+  },
+  "PRUEBA-0007": {
+    "invoiceNumber": "PRUEBA-0007",
+    "invoiceDate": "2026-09-07",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 847875,
+    "taxableBase": 712500,
+    "vatAmount": 135375
+  },
+  "PRUEBA-0008": {
+    "invoiceNumber": "PRUEBA-0008",
+    "invoiceDate": "2026-09-08",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 606900,
+    "taxableBase": 510000,
+    "vatAmount": 96900
+  },
+  "PRUEBA-0009": {
+    "invoiceNumber": "PRUEBA-0009",
+    "invoiceDate": "2026-09-09",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 737800,
+    "taxableBase": 620000,
+    "vatAmount": 117800
+  },
+  "PRUEBA-0010": {
+    "invoiceNumber": "PRUEBA-0010",
+    "invoiceDate": "2026-09-10",
+    "vendorName": "Empresa Demo Colombia S.A.S.",
+    "totalAmount": 1040060,
+    "taxableBase": 874000,
+    "vatAmount": 166060
+  },
+  "PRUEBA-0011": {
+    "invoiceNumber": "FV-2026-1187",
+    "invoiceDate": "2026-09-15",
+    "vendorName": "Distribuidora Los Andes S.A.S.",
+    "totalAmount": 565250,
+    "taxableBase": 475000,
+    "vatAmount": 90250
+  },
+  "PRUEBA-0012": {
+    "invoiceNumber": "INV-2026-0042",
+    "invoiceDate": "2026-09-11",
+    "vendorName": "Harbor Lane Test Supplies LLC",
+    "totalAmount": 1350.0,
+    "taxableBase": 1250.0,
+    "vatAmount": 100.0
+  },
+  "PRUEBA-0013": {
+    "invoiceNumber": "FV-2026-2045",
+    "invoiceDate": "2026-09-22",
+    "vendorName": "Soluciones Técnicas del Sur S.A.S.",
+    "totalAmount": 1190000,
+    "taxableBase": 1000000,
+    "vatAmount": 190000
+  },
+  "PRUEBA-0014": {
+    "invoiceNumber": "FV-2026-0310",
+    "invoiceDate": "2026-09-20",
+    "vendorName": "Papelería El Roble S.A.S.",
+    "totalAmount": 249900,
+    "taxableBase": 210000,
+    "vatAmount": 39900
+  },
+  "PRUEBA-0015": {
+    "invoiceNumber": "FV-2026-4410",
+    "invoiceDate": "2026-09-30",
+    "vendorName": "Servicios Técnicos Integrales S.A.S.",
+    "totalAmount": 3736600,
+    "taxableBase": 3140000,
+    "vatAmount": 596600
+  }
+}

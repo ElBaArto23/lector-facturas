@@ -1,0 +1,34 @@
+{
+  "archivo": "factura_PRUEBA-0008.pdf",
+  "estado": "aprobada_automaticamente",
+  "umbral": 0.85,
+  "procesada_utc": "2026-10-05T16:20:53.904685+00:00",
+  "campos": {
+    "invoiceNumber": {
+      "valor": "PRUEBA-0001",
+      "confianza": 0.926
+    },
+    "invoiceDate": {
+      "valor": "2026-09-01",
+      "confianza": 0.897
+    },
+    "vendorName": {
+      "valor": "Empresa Demo Colombia S.A.S.",
+      "confianza": 0.95
+    },
+    "totalAmount": {
+      "valor": 406980,
+      "confianza": 0.95
+    },
+    "taxableBase": {
+      "valor": 342000,
+      "confianza": 0.93
+    },
+    "vatAmount": {
+      "valor": 64980,
+      "confianza": 0.93
+    }
+  },
+  "motivos_de_revision": [],
+  "revision_humana": null
+}

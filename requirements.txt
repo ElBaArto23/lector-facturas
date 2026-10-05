@@ -1,0 +1,4 @@
+azure-ai-contentunderstanding
+azure-identity
+streamlit
+python-dotenv
